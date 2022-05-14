@@ -1,10 +1,10 @@
 {
 	"title"		:	"Props Beyond Infinity - Taunts",
 	"type"		:	"ServerContent",
-	"tags"		:	[ "fun" ],
+	"tags"		:	[ "roleplay", "realism" ],
 	"ignore"	:
 	[
-		"*.github*",
-		"*.git*"
+		"*.github/*",
+		"*.git/*"
 	]
 }

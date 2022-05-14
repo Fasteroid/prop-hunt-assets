@@ -5,6 +5,7 @@
 	"ignore"	:
 	[
 		"*.github*",
-		"*.git*"
+		"*.git*",
+		"steamcmd.exe"
 	]
 }

@@ -1,0 +1,10 @@
+{
+	"title"		:	"Props Beyond Infinity - Taunts",
+	"type"		:	"ServerContent",
+	"tags"		:	[ "fun" ],
+	"ignore"	:
+	[
+		"*.github*",
+		"*.git*"
+	]
+}

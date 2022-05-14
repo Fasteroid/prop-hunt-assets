@@ -19,6 +19,5 @@ jobs:
         with:
           account-name: ${{secrets.STEAM_NAME}}
           account-password: ${{secrets.STEAM_PASSWORD}}
-          account-password: ${{secrets.STEAM_SECRET}}
-          workshop-id: '1182471500'
+          workshop-id: '2807801954'
           addon-path: ${{env.GITHUB_WORKSPACE}}

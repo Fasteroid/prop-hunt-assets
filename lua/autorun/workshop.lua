@@ -1,1 +1,1 @@
-resource.AddWorkshop("2807801954")
+if SERVER then resource.AddWorkshop("2807801954") end
